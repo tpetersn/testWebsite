@@ -1,0 +1,50 @@
+h1{
+    color: hotpink;
+    background-color: black;
+    font-size: 100px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+p {
+    color: slategray;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 50px;
+    column-count: 3;
+    column-gap: 20px;
+}
+
+a {
+    color: red;
+    text-align: center;
+}
+
+h4 {
+    color: honeydew;
+    background-color: crimson;
+}
+
+ul {
+    /* border-width: 4px; */
+    /* border-style: solid; */
+    /* border-radius: 5px; */
+    border-bottom:4px dashed brown;
+
+    list-style-type: circle;
+    list-style-position: inside;
+    text-align: center;
+
+    /* Use control + forward slash to comment out block */
+}
+
+li {
+    list-style-type: disc;
+    text-shadow: 2px 2px #e75971;
+
+}
+
+span {
+    display: block;
+}
